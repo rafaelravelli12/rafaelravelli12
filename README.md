@@ -1,5 +1,5 @@
 ### Esteemed Sirs,
 
-My repositories serve as a showcase for both the courses I have completed and the projects I have created.
+My GitHub profile serve as a showcase for both the courses I completed and the projects I have created.
 
 Graciously,
