@@ -1,5 +1,5 @@
 ### Esteemed Sirs,
 
-I'm currently using GitHub to allocate public codes from my portfolio.
+My repositories serve as a showcase for both the courses I have completed and the projects I have created.
 
 Graciously,
